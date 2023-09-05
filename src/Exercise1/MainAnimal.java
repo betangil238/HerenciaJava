@@ -19,8 +19,5 @@ public class MainAnimal {
 	
 	Animal caballo1 = new Caballo("Spark","Pasto",25,"fino");
 	caballo1.Alimentarse();
-	
-
 	}
-
 }
