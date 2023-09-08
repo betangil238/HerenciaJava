@@ -89,6 +89,7 @@ public class AstilleroService {
 		barcos.add(new Velero("V1", 18.5, 2017, 1));
 		barcos.add(new Velero("V2", 22.0, 2019, 2));
 	}
+	
 	private void crearBarcoaMotor() {
 		System.out.println("Ingrese la matricula del barco");
 		String matricula=leer.next();

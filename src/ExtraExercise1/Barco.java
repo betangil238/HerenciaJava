@@ -36,7 +36,5 @@ public class Barco {
 	public String toString() {
 		return "Barco [matricula=" + matricula + ", eslora=" + eslora + ", anofabrica=" + anofabrica + "]";
 	}
-	
-	
 
 }
